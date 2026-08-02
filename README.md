@@ -6,7 +6,6 @@
 ### 👩‍💻 About Me
 - 🎓 Final-year B.Tech ECE student at Vignan's Institute of Engineering for Women, Visakhapatnam
 - 💼 Java Technology Stack Intern @ Infosys
-- 🔭 Currently working on: **Hospital Management System (Spring Boot)**
 - 🌱 Currently learning: **Advanced SQL | DSA in Java**
 - 📫 Reach me at: **padmagadi961@gmail.com**
 - ⚡ Fun fact: I published a research paper on IoT-based Pest Detection System!
